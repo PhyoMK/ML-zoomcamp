@@ -1,0 +1,22 @@
+{
+    "customerid": "9895-vfoxh",
+ "gender": "female",
+ "seniorcitizen": 0,
+ "partner": "no",
+ "dependents": "no",
+ "tenure": 0,
+ "phoneservice": "no",
+ "multiplelines": "no_phone_service",
+ "internetservice": "dsl",
+ "onlinesecurity": "no",
+ "onlinebackup": "no",
+ "deviceprotection": "no",
+ "techsupport": "no",
+ "streamingtv": "no",
+ "streamingmovies": "no",
+ "contract": "month-to-month",
+ "paperlessbilling": "yes",
+ "paymentmethod": "mailed_check",
+ "monthlycharges": 29.4,
+ "totalcharges": 29.4
+ }
