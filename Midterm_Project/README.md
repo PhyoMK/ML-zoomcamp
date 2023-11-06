@@ -30,4 +30,4 @@ The dataset used for this project is the heart_statlog_cleveland_hungary_final.c
 
 ## How to Run
 
- There is docker file, also pipfile and pipfile.lock so you just need to run these file.
+ There is a docker file, also pipfile and pipfile.lock so you just need to run these file.
