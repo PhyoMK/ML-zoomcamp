@@ -9,10 +9,10 @@ customer = {
      "chest_pain_type": "asymptomatic",
      "resting_blood_pressure": 150,
      "cholesterol": 230,
-     "fasting_blood_sugar": "true",
+     "fasting_blood_sugar": "cls",
      "resting_ecg": "st_t_wave_abnormal",
      "max_heart_rate": 124,
-     "exercise_angina": "no",
+     "exercise_angina": "yes",
      "oldpeak": 1.5,
      "st_slope": "flat"
 }
