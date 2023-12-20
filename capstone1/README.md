@@ -13,10 +13,11 @@ The Dog Classification Model is an image classification project aimed at accurat
 
 ## Dataset
 https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset 
+At first I download and put to data folder after changing size. Then use train-test-split to all the paths and put each to train,val, test folders.
 
 ## Creating Model
 Explain the process of creating the model. This section can include:
-- Data preprocessing(At first, I downloaded the whole image files and then transport to data files by changing input size. After that divided into train, validation, test with 80%, 10%, 10% arrangement.)
+- Data preprocessing(At first, I downloaded the whole image files and then transport to data files by changing input size. After that divided into train, validation, test with 80%, 10%, 10% arrangement)
 - Model architecture design (e.g., neural network layers)
 - Training process and tuning parameters
 - Best Models saving on final training
