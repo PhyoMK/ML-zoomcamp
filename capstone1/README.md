@@ -1,5 +1,5 @@
 # Project Name
-Dogs classification
+Dogs classification (120 types of breed)
 
 ## Table of Contents
 - Dverview
