@@ -37,10 +37,3 @@ Detail the steps to deploy the TensorFlow Lite model as an AWS Lambda function. 
 
 
 
-
-
-## Acknowledgments
-Optional section for acknowledging libraries, tools, or resources used in the project that deserve recognition.
-
-## Support or Contact
-Provide contact information or links to support channels for users to get help or report issues related to the project.
