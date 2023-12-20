@@ -1,0 +1,8 @@
+ACCOUNT=364212788317
+REGION=ap-southeast-1
+REGISTRY=clothing-tflite-images
+PREFIX = ${ACCOUNT}.dkr.ecr.${REGION}.amazonaws.com/${REGISTRY}
+
+TAG=clothing-model-xception-v4-001
+REMOTE_URI=${clothing-tflite-images}:${TAG}
+echo ${REMOTE_URI}
