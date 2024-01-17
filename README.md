@@ -1,4 +1,3 @@
-@ -1,31 +0,0 @@
 # Project Name
 Surface crack classification 
 
